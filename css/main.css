@@ -135,14 +135,14 @@ footer {
     right: 0;
     height: 115% ;
     top: 8vh;
-    background-color: white;
+    background-color: rgb(219,234,239);
     display:flex;
     flex-direction:column;
     align-items: center;
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
     z-index: 8;
-    color: black;
+    color: rgb(104,180,216);
     }
     .nav-links li {
         opacity: 1;
