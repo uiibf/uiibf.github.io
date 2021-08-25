@@ -1,0 +1,65 @@
+[09-Aug-2021 02:46:23 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 02:46:23 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 02:46:23 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 02:46:23 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 02:46:23 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 03:04:52 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:04:52 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:04:52 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:04:52 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:04:52 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 03:40:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:40:31 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:40:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:40:31 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:40:31 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 03:51:57 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:51:57 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:51:57 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 03:51:57 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 03:51:57 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 04:22:05 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 04:22:05 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 04:22:05 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 04:22:05 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 04:22:05 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 04:53:11 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 04:53:11 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 04:53:11 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 04:53:11 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 04:53:11 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 05:24:47 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 05:24:47 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 05:24:47 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 05:24:47 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 05:24:47 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 05:52:42 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 05:52:42 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 05:52:42 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 05:52:42 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 05:52:42 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 06:23:38 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 06:23:38 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 06:23:38 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 06:23:38 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 06:23:38 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 06:53:33 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 06:53:33 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 06:53:33 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 06:53:33 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 06:53:33 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 07:23:25 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 07:23:25 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 07:23:25 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 07:23:25 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 07:23:25 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 07:53:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 07:53:30 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 07:53:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 07:53:30 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 07:53:30 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0
+[09-Aug-2021 08:24:25 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 08:24:25 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 08:24:25 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/libraryb/public_html/bookfair/index.php) is not within the allowed path(s): (1) in Unknown on line 0
+[09-Aug-2021 08:24:25 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[09-Aug-2021 08:24:25 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/libraryb/public_html/bookfair/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in Unknown on line 0

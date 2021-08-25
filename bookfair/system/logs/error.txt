@@ -1,0 +1,187 @@
+2021-08-04 8:12:58 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@libraryb_aban731
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:13:12 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:14:35 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/apdomysql.php on line 29
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:14:57 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:15:52 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:18:29 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using root@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 259
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 234
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 190
+
+2021-08-04 8:19:00 - App Error:  AbanteCart core v.1.2 Cannot establish database connection to libraryb_aban731 using libraryb_aban731@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/install/model/install.php on line 92
+	#3 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 178
+	#4 /home/libraryb/public_html/bookfair/install/controller/pages/install.php on line 59
+
+2021-08-04 8:23:35 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:23:41 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:23:57 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:28:02 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:30:32 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:30:38 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:31:16 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:32:05 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:32:11 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:36:02 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:36:08 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:36:11 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:38:14 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:38:56 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:40:30 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:51:37 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:52:42 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 8:52:43 - Unknown Error:  AbanteCart core v.1.3.0 Call to undefined function mime_content_type() in <b>/home/libraryb/public_html/bookfair/storefront/view/default/template/common/head.tpl</b> on line <b>42</b>
+2021-08-04 10:45:54 - App Error:  AbanteCart core v.1.3.0 FastCheckout Error: No shipping option offered to the customer at checkout. Probably, need to check shipping setting!
+Trace:
+	#0 /home/libraryb/public_html/bookfair/extensions/fast_checkout/storefront/controller/responses/checkout/pay.php on line 2021
+	#1 /home/libraryb/public_html/bookfair/extensions/fast_checkout/storefront/controller/responses/checkout/pay.php on line 1786
+	#2 /home/libraryb/public_html/bookfair/extensions/fast_checkout/storefront/controller/responses/checkout/pay.php on line 307
+	#3 /home/libraryb/public_html/bookfair/extensions/fast_checkout/storefront/controller/responses/checkout/pay.php on line 1251
+	#4 /home/libraryb/public_html/bookfair/core/engine/dispatcher.php on line 287
+
+2021-08-08 3:37:42 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 4:03:22 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 4:33:20 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 5:04:32 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 5:34:01 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 6:35:04 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 7:09:32 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 7:36:26 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 8:48:18 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 9:48:01 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 10:17:57 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 10:48:02 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 11:18:02 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 11:48:42 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
+2021-08-08 12:18:06 - App Error:  AbanteCart core v.1.3.0 Cannot establish database connection to libraryb_bookfair using libraryb_bookfair@localhost
+Trace:
+	#0 /home/libraryb/public_html/bookfair/core/database/amysqli.php on line 52
+	#1 /home/libraryb/public_html/bookfair/core/lib/db.php on line 52
+	#2 /home/libraryb/public_html/bookfair/core/init.php on line 342
+	#3 /home/libraryb/public_html/bookfair/index.php on line 56
+
