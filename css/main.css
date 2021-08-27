@@ -1,5 +1,5 @@
 
-body {
+.body {
     margin: 0;
     font-family:'Courier New', Courier, monospace;
     background-color: rgb(219,234,239);
@@ -120,7 +120,7 @@ footer {
     }
 }
 @media screen and (max-width: 720px){
-    html, body {
+    .html, .body {
         overflow-x: hidden;
         max-height:100%;
         position:relative;
